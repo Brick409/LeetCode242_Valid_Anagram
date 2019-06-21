@@ -1,0 +1,5 @@
+﻿  Valid_Anagram.cpp
+d:\code_project\c++_test\github_project\leetcode242_valid_anagram\valid_anagram\valid_anagram\valid_anagram.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode242_valid_anagram\valid_anagram\valid_anagram\valid_anagram.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+d:\code_project\c++_test\github_project\leetcode242_valid_anagram\valid_anagram\valid_anagram\valid_anagram.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+  Valid_Anagram.vcxproj -> D:\Code_Project\C++_Test\GitHub_Project\LeetCode242_Valid_Anagram\Valid_Anagram\Debug\Valid_Anagram.exe
